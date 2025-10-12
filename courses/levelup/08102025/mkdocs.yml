@@ -1,0 +1,18 @@
+site_name: AI & ML Learning Portfolio
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: light blue
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+nav:
+  - Home: index.md
+  - Notes: ../notes/
+  - Projects: ../projects/
+  - Resources: ../resources/
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/ai-ml-learning
+repo_name: YOUR_GITHUB_USERNAME/ai-ml-learning
