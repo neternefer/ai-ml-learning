@@ -67,7 +67,7 @@ python
 2. Następnie w interpreterze wpisz:
 ```
 from support_tool import submit_support_ticket
-print(submit_support_ticket("test@example.com", "Nie mogę zalogować się do systemu."))
+print(submit_support_ticket("test2@example.com", "Cannot log into the systemu."))
 ```
 
 3. Po wykonaniu w katalogu, w którym znajduje się skrypt, pojawi się nowy plik, np.:
